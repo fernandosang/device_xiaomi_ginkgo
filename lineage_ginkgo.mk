@@ -29,7 +29,7 @@ $(call inherit-product, device/xiaomi/ginkgo/device.mk)
 # Some Sakura stuff
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_PIXEL_CHARGER := true
-SAKURA_OFFICIAL := false
+SAKURA_OFFICIAL := true
 SAKURA_MAINTAINER := FernandoSanchez(@fernandosanch)
 
 # Device identifier
