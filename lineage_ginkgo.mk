@@ -31,6 +31,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_PIXEL_CHARGER := true
 SAKURA_OFFICIAL := true
 SAKURA_MAINTAINER := FernandoSanchez(@fernandosanch)
+SAKURA_BUILD_TYPE=gapps
 
 # Device identifier
 PRODUCT_NAME := lineage_ginkgo
